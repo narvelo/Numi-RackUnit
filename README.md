@@ -14,7 +14,7 @@ One rack unit (U) is 44.45 mm (1.75 inches) and is used to measure rack-mountabl
 
 How many rack units would a Synology RackStation RS4017xs+ measuring 132.3 mm in height take up? 
 
-`132.3 mm in rack units` = 3U
+Entering `132.3 mm in server rack` in Numi would return `2.98U` or 3U.
 
 ## Contributing
 
